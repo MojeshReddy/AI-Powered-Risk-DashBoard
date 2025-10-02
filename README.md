@@ -41,9 +41,10 @@ The application normalizes the data and computes risk levels (e.g., Low, Medium,
 Missing values are handled gracefully to avoid errors.
 Visualization
 Risk scores and statistics are displayed using Chart.js.
-
-https://github.com/MojeshReddy/AI-Powered-Risk-DashBoard/blob/main/Image.png
 Dynamic charts (bar, pie, line) allow users to analyze trends and compare user risks.
 Real-Time Feedback
 Any changes in uploaded data instantly update the dashboard.
 Users can interact with charts for detailed analytics.
+
+![AI Risk Dashboard Flow](https://github.com/MojeshReddy/AI-Powered-Risk-DashBoard/blob/main/Image.png)
+
